@@ -1,1 +1,1 @@
-scalaScript
+build scala environment on centOS7.
